@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:6346a8a39dbafd321816fbd6@squarespace.com
+DTSTAMP:20221013T184958Z
+DTSTART:20221023T190000Z
+DTEND:20221023T210000Z
+SUMMARY:Community Science for the Barge Canal
+GEO:44.465227;-73.21503
+LOCATION:Pine Street Barge Canal\, 501 Pine Street\, Burlington\, VT\, 0540
+ 1\, United States
+END:VEVENT
+END:VCALENDAR
